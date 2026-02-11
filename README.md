@@ -1,3 +1,4 @@
 # LiveSplit One の日本語訳の改善案の動作サンプル
 
 アップデートにて多言語対応した LiveSplit One の日本語訳の改善提案をするにあたって、改善後のイメージを掴むための動作サンプルです。
+https://kuhaku9893.github.io/lso-jp-sample/
